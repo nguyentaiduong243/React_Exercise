@@ -1,0 +1,26 @@
+.text-color{
+    color: rgb(102, 12, 66);;
+}
+.price-color{
+    color: black;
+}
+
+.icon {
+    height: 60px;
+    padding-top: 20px;
+    color: rgb(102, 12, 66);
+}
+
+.button {
+    background-color: white;
+    color: black;
+}
+
+.button:hover {
+    background-color: rgb(206, 15, 129);
+}
+
+.check-list {
+
+}
+

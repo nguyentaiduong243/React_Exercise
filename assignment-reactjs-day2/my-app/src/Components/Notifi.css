@@ -1,0 +1,42 @@
+.fa-toggle-on {
+  color: #0fb1da;
+}
+
+.row.col-4.offset-4 {
+  border-radius: 10px;
+  border: 1px solid black;
+  padding-top: 10px;
+}
+
+.fa-toggle-off {
+  color: #454545;
+}
+
+.notification h3 {
+  opacity: 0.5;
+}
+
+.notification .container {
+  border: 1px solid #aaaaaa;
+  border-radius: 10px;
+}
+
+.container > h5 {
+  font-size: 14px;
+}
+
+.setting:nth-child(even) {
+  background-color: #e9e9e9;
+}
+
+.setting button {
+  font-size: 24px;
+}
+
+.setting button:focus {
+  box-shadow: none;
+}
+
+p {
+  opacity: 0.5;
+}
