@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Moxpad X3",
+      "image": "https://product.hstatic.net/1000146770/product/moxpad-x3-tai-nghe-ido-audio-2_12d11eb365ac47ee830f5a6fee9f033d_master.jpg",
+      "description": "Tai nghe có thiết kế đẹp, chất âm khá với một giá bán dễ chịu",
+      "price": 450000,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Moxpad X6",
+      "image": "https://product.hstatic.net/1000146770/product/moxpad-x6-tai-nghe-ido-audio-2_adc015e190c24dfa93a99956b278d8d0_master.jpg",
+      "description": "Thiết kế dạng tai nghe thể thao, giúp thoải mái hơn khi sử dụng trong thời gian dài",
+      "price": 700000,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Moxpad X9",
+      "image": "https://product.hstatic.net/1000146770/product/moxpad-x9-tai-nghe-ido-audio-2_9aa6cd88b08449d8b80d743831ee9426_master.jpg",
+      "description": "Tai nghe Moxpad X9 với âm bass cực mạnh",
+      "price": 860000,
+      "quantity": 2
+    },
+    {
+      "id": 4,
+      "name": "Moxpad M3X",
+      "image": "https://product.hstatic.net/1000146770/product/moxpad-m3x-tau-nghe-khong-day-ido-audio-4_35079428a45044378e67a45ee403f234_master.jpg",
+      "description": "Tai nghe không dây hoàn toàn Moxpad M3X True Wireless là phiên bản nâng cấp của chiếc M3",
+      "price": 1380000,
+      "quantity": 0
+    }
+  ]
+}
